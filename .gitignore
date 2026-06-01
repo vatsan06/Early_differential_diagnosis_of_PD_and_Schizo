@@ -1,0 +1,20 @@
+# Ignore all images and datasets
+*.bmp
+*.csv
+*.mp4
+*.zip
+*.txt
+*.mat
+*.ced
+*.m
+*.xlsx
+*.json
+
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore specific large folders (update these names if you have huge data folders)
+schizo/__Cost Conflict in Schizophrenia/Task Scripts/images/
