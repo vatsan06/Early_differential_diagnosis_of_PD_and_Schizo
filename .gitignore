@@ -10,7 +10,6 @@
 *.xlsx
 *.json
 
-.gitignore
 # Ignore virtual environments
 venv/
 env/
