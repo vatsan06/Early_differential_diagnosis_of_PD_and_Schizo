@@ -18,3 +18,25 @@ env/
 
 # Ignore specific large folders (update these names if you have huge data folders)
 schizo/__Cost Conflict in Schizophrenia/Task Scripts/images/
+
+# Ignore your local tensor cache directories
+layer2_cache/
+tuab_cache/
+PlotNeuralNet/
+parkinsons/
+real_world/
+schizo/
+results/
+saved_models/
+v3.0.1/
+scripts/
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Ignore local PDF outputs or logs
+*.pdf
+*.log
