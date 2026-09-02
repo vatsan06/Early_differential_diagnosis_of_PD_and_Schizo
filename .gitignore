@@ -9,7 +9,7 @@
 *.m
 *.xlsx
 *.json
-
+*.png
 # Ignore virtual environments
 venv/
 env/
